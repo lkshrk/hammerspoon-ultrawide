@@ -17,7 +17,7 @@ brew install hammerspoon
 
 Make sure Hammerspoon is started (You should see the a Hammerspoon logo in your menubar).
 
-Download the latest release [Ultrawide spoon](https://github.com/lkshrk/hammerspoon-ultrawide/releases/latest). Unzip it and open the spoon.
+Download the latest [release](https://github.com/lkshrk/hammerspoon-ultrawide/releases/latest). Unzip it and open the spoon.
 
 Hammerspoon should prompt that the newly installed spoon is now available.
 
@@ -105,4 +105,4 @@ obj.mapping = {
 
 ## Credits
 
-Credits to [@peterklijn](https://github.com/peterklijn) for [shiftit spoon](https://github.com/peterklijn/hammerspoon-shiftit), which was foundation of this project.
+Credits to [@peterklijn](https://github.com/peterklijn) for [shiftit spoon](https://github.com/peterklijn/hammerspoon-shiftit) which was foundation of this project.

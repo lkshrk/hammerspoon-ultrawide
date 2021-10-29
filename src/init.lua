@@ -9,7 +9,7 @@ obj.__index = obj
 
 -- Metadata
 obj.name = "HammerspoonUltrawide"
-obj.version = "0.9"
+obj.version = "1.0"
 obj.author = "Lukas Harke"
 obj.homepage = "https://github.com/lkshrk/hammerspoon-ultrawide"
 obj.license = ""
