@@ -29,7 +29,7 @@ Paste the following configuration in the `init.lua` file, save it and close it.
 
 ```lua
 hs.loadSpoon("ultrawide")
-spoon.ShiftIt:bindHotkeys({})
+spoon.ultrawide:bindHotkeys({})
 ```
 
 Click on the Hammerspoon menubar icon again, and click on 'Reload Config'.
